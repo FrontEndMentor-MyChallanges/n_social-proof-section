@@ -26,12 +26,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./images/desktop.png)
+![](./images/mobile.png)
 
 ### Links
 
-- Solution URL: [Code](https://your-solution-url.com)
-- Live Site URL: [Live](https://your-live-site-url.com)
+- Solution URL: [Code](https://github.com/FrontEndMentor-MyChallanges/n_social-proof-section)
+- Live Site URL: [Live](https://github.com/FrontEndMentor-MyChallanges/n_social-proof-section/settings/pages)
 
 ## My process
 
