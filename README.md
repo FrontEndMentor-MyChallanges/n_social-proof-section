@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Code](https://github.com/FrontEndMentor-MyChallanges/n_social-proof-section)
-- Live Site URL: [Live](https://github.com/FrontEndMentor-MyChallanges/n_social-proof-section/settings/pages)
+- Live Site URL: [Live](https://frontendmentor-mychallanges.github.io/n_social-proof-section/)
 
 ## My process
 
